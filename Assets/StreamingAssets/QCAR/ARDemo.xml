@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="GolfTargetBlack" size="100.000000 100.000000" />
+    <ImageTarget name="Wall" size="100.000000 56.250000" />
+    <ImageTarget name="COMPLIANCE" size="100.000000 582.926819" />
+    <ImageTarget name="GAMP" size="100.000000 571.641785" />
+    <ImageTarget name="Putter" size="100.000000 230.657898" />
+    <ImageTarget name="GolfTargetClean" size="100.000000 100.000000" />
+    <ImageTarget name="GolfTarget" size="100.000000 100.000000" />
+    <ImageTarget name="Banner2" size="130.000000 239.687500" />
+    <ImageTarget name="RovisysBanner" size="1024.000000 1888.000000" />
+    <ImageTarget name="emptyqr2" size="50.000000 50.205761" />
+    <ImageTarget name="emptyqr1" size="50.000000 59.958931" />
+    <ImageTarget name="steel" size="50.000000 55.947369" />
+    <ImageTarget name="Marker" size="130.000000 130.000000" />
+    <ImageTarget name="target" size="130.000000 130.000000" />
+    <ImageTarget name="logo2" size="129.494156 130.000000" />
+    <ImageTarget name="stones_uploaded" size="247.000000 172.707031" />
+    <ImageTarget name="Logo" size="227.000000 138.749466" />
+  </Tracking>
+</QCARConfig>
